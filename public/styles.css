@@ -1,0 +1,10 @@
+.card{
+    min-height: 15vw;
+    min-width: 10vw;
+    background-color: fuchsia;
+    text-align: center;
+}
+.container{
+    display: flex;
+    justify-content: space-around;
+}
